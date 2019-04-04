@@ -1,0 +1,6 @@
+C:\Users\ШадикьянР\source\repos\StorageApp\StorageApp.Models\bin\Debug\StorageApp.Models.dll
+C:\Users\ШадикьянР\source\repos\StorageApp\StorageApp.Models\bin\Debug\StorageApp.Models.pdb
+C:\Users\ШадикьянР\source\repos\StorageApp\StorageApp.Models\obj\Debug\StorageApp.Models.csprojAssemblyReference.cache
+C:\Users\ШадикьянР\source\repos\StorageApp\StorageApp.Models\obj\Debug\StorageApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\ШадикьянР\source\repos\StorageApp\StorageApp.Models\obj\Debug\StorageApp.Models.dll
+C:\Users\ШадикьянР\source\repos\StorageApp\StorageApp.Models\obj\Debug\StorageApp.Models.pdb
